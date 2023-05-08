@@ -1,0 +1,16 @@
+{
+  "name": "mass-unfriends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuzu0404",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.0",
+    "open": "^9.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
