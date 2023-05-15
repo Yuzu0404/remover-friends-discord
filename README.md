@@ -1,5 +1,3 @@
-"# remover-friends-discord" 
-
 Salut !
 
 bienvenue dans l'outil pour supprimer tous vos amis sur Discord créé par Yuzu.
